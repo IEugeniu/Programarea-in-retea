@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\HttpClientApp\HttpClientApp\bin\Debug\netcoreapp3.1\HttpClientApp.exe
+C:\Users\User\Desktop\HttpClientApp\HttpClientApp\bin\Debug\netcoreapp3.1\HttpClientApp.deps.json
+C:\Users\User\Desktop\HttpClientApp\HttpClientApp\bin\Debug\netcoreapp3.1\HttpClientApp.runtimeconfig.json
+C:\Users\User\Desktop\HttpClientApp\HttpClientApp\bin\Debug\netcoreapp3.1\HttpClientApp.runtimeconfig.dev.json
+C:\Users\User\Desktop\HttpClientApp\HttpClientApp\bin\Debug\netcoreapp3.1\HttpClientApp.dll
+C:\Users\User\Desktop\HttpClientApp\HttpClientApp\bin\Debug\netcoreapp3.1\HttpClientApp.pdb
+C:\Users\User\Desktop\HttpClientApp\HttpClientApp\obj\Debug\netcoreapp3.1\HttpClientApp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\HttpClientApp\HttpClientApp\obj\Debug\netcoreapp3.1\HttpClientApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HttpClientApp\HttpClientApp\obj\Debug\netcoreapp3.1\HttpClientApp.AssemblyInfo.cs
+C:\Users\User\Desktop\HttpClientApp\HttpClientApp\obj\Debug\netcoreapp3.1\HttpClientApp.dll
+C:\Users\User\Desktop\HttpClientApp\HttpClientApp\obj\Debug\netcoreapp3.1\HttpClientApp.pdb
+C:\Users\User\Desktop\HttpClientApp\HttpClientApp\obj\Debug\netcoreapp3.1\HttpClientApp.genruntimeconfig.cache
+C:\Users\User\Desktop\HttpClientApp\HttpClientApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\HttpClientApp\HttpClientApp\obj\Debug\netcoreapp3.1\HttpClientApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HttpClientApp\HttpClientApp\obj\Debug\netcoreapp3.1\HttpClientApp.csproj.CopyComplete

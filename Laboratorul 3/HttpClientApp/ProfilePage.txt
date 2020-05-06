@@ -1,0 +1,286 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <title>eugen-1 - ?????????????? ???????????????????????? ???? 999.md</title>
+    <meta charset="utf-8">
+    <meta name="referrer" content="always">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <meta name="apple-mobile-web-app-title" content="999.md">
+    <meta name="application-name" content="999.md">
+    <link rel="apple-touch-icon" href="/static/apple-touch-icon.png?v=903090e65e892c353861ac0dbc357aff" />
+    <link rel="icon" href="/static/apple-touch-icon.png?v=903090e65e892c353861ac0dbc357aff" />
+    <meta name="title" content="eugen-1 - ?????????????? ???????????????????????? ???? 999.md">
+    <meta name="description" content="999.md - ?????????? ???????????????????? ?????????? ???????????????????? ??????????????. ?????????? ???? ?????????????? ?????????? ?? ??/?? ???????????? ???? ?????????? ????????. ???????????? ???????????????????? ??????????????????? ?? 999.md ?????? ?????????? ?????? ????????????.">
+    <link rel="alternate" hreflang="ru" href="https://999.md/ru/profile/eugen-1" />
+    <link rel="alternate" hreflang="ro" href="https://999.md/ro/profile/eugen-1" />
+    <meta name=viewport content="width=device-width,initial-scale=1">
+    <meta name="apple-itunes-app" content="app-id=927359718">
+    <meta name="google-play-app" content="app-id=md.simpals.md999">
+    <meta property="fb:app_id" content="159220827469771">
+    <meta property="og:title" content="eugen-1 - ?????????????? ???????????????????????? ???? 999.md" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://999.md/ru/profile/eugen-1" />
+    <meta property="og:image" content="https://999.md/static/classic/assets/i/open-graph/logo-1200x650.png" />
+    <meta property="og:description" content="999.md - ?????????? ???????????????????? ?????????? ???????????????????? ??????????????. ?????????? ???? ?????????????? ?????????? ?? ??/?? ???????????? ???? ?????????? ????????. ???????????? ???????????????????? ??????????????????? ?? 999.md ?????? ?????????? ?????? ????????????." />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="650" />
+    <meta property="og:site_name" content="999.md" />
+    <link rel="stylesheet" href="/static/classic/assets/dist/css/styles.min.css?v=3024138595904ad69d351fe981324b7d">
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push({
+            'event': 'optimize-subscribe-button'
+        });
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=214034089"></script>
+    <script async>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', '214034089', {
+            'user_id': "e4837b35-11fd-4627-a210-cf5d723d6c9d"
+        });
+    </script>
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-PCBC9W3');
+    </script>
+    <!-- End Google Tag Manager -->
+    <script type='text/javascript' async>
+        (function() {
+            var w = window,
+                d = document,
+                protocol = /https/i.test(w.location.protocol) ? 'https:' : 'http:',
+                aml = typeof admixerML !== 'undefined' ? admixerML : {};
+            aml.fn = aml.fn || [];
+            aml.invPath = aml.invPath || (protocol + '//inv-nets.admixer.net/');
+            aml.cdnPath = aml.cdnPath || (protocol + '//cdn.admixer.net/');
+            if (!w.admixerML) {
+                var lodash = document.createElement('script');
+                lodash.id = 'amlScript';
+                lodash.async = true;
+                lodash.type = 'text/javascript';
+                lodash.src = aml.cdnPath + 'scripts3/loader2.js';
+                var node = d.getElementsByTagName('script')[0];
+                node.parentNode.insertBefore(lodash, node);
+                w.admixerML = aml;
+            }
+        })();
+    </script>
+</head>
+
+<body class="page page-index">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PCBC9W3" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <!-- Outdated Browser -->
+    <div id="outdated" data-language-path="/static/classic/assets/html/outdated-browser/ru.html?v=443742d8cce6f7d078b1f167a43c1ac9"></div>
+    <style>
+        #topbar {
+            display: block;
+            position: fixed;
+            top: 0;
+            left: 0;
+            z-index: 20000;
+            width: 100%;
+            height: 36px;
+            background: #474D59;
+        }
+    </style>
+    <script id="topbar" src="//simpalsid.com/simpalsid/static/js/loader.min.js" data-project-id="999a46c6-e6a6-11e1-a45f-28376188709b" async></script>
+    <div id="fb-root"></div>
+    <div class="wrapper">
+        <header id="header">
+            <div class="header_numbersTop" style="z-index: 1001">
+                <div style="width: 100%; height: 90px;">
+                    <div id='admixer_78309aecd9d446818f81a97cded60670_zone_44645_sect_13460_site_9509'></div>
+                    <script type='text/javascript'>
+                        admixerML.fn.push(function() {
+                            admixerML.display('admixer_78309aecd9d446818f81a97cded60670_zone_44645_sect_13460_site_9509');
+                        });
+                    </script>
+                </div>
+            </div>
+            <div class="header_menu">
+                <form id="js-region-form" action="/region_select" class="region-list" method="post">
+                    <div id="js-region-toggle" class="region-list__selected"> <span>??????????????</span> </div>
+                    <div id="js-region-popup" class="region-list__list">
+                        <div id="js-region-close" class="region-list__list__close"> ?? ?????????????? </div>
+                        <ul class="region-list__list__col is-main">
+                            <li class=" region-list__list__col__item  is-active ">
+                                <label>
+                                    <input type="radio" name="region" value=""> ?????????????? </label>
+                            </li>
+                            <li class=" region-list__list__col__item   ">
+                                <label>
+                                    <input type="radio" name="region" value="-1"> ?????????????????????????? </label>
+                            </li>
+                            <li class=" region-list__list__col__item is-capital  ">
+                                <label>
+                                    <input type="radio" name="region" value="12900"> ?????????????? ??????. </label>
+                            </li>
+                            <li class=" region-list__list__col__item   ">
+                                <label>
+                                    <input type="radio" name="region" value="12912"> ???????????? ??????. </label>
+                            </li>
+                            <li class=" region-list__list__col__item   ">
+                                <label>
+                                    <input type="radio" name="region" value="12885"> ?????????????????? ??????. </label>
+                            </li>
+                        </ul>
+                    </div>
+                </form>
+                <div class="header_menu_info">
+                    <div class="header_menu_info_ads"> ?????????????? 122 ???????????????????? </div>
+                    <div class="header_menu_info_new"> <a href="https://999.md/blog/3529661?utm_source=site&amp;utm_medium=toplink&amp;utm_campaign=bez_nomera&amp;utm_content=ru">?????????????????? ???????????????????? ?????? ???????????? ????????????????!</a> </div>
+                </div>
+                <nav class="header_menu_nav" id="m__user_panel">
+                    <div class="header_menu_nav__dropdown-wrapper" data-autotest="cabinet"> ???????????? ??????????????
+                        <div>
+                            <ul>
+                                <li><a href="/ru/profile/eugen-1">?????? ??????????????</a></li>
+                                <li><a href="/cabinet/items">?????? ????????????????????</a></li>
+                                <li><a href="/cabinet/contacts">?????? ????????????????</a></li>
+                                <li><a href="/cabinet/subscriptions">????????????????</a></li>
+                            </ul>
+                        </div>
+                    </div> <a class="header_menu_nav__favorites" href="/cabinet/favorites">??????????????????<span id="js-favorites-counter" class="total-fav">102</span></a> </nav>
+            </div>
+            <div class="header_bar">
+                <div class="g-wrap">
+                    <h1 class="header_bar_logo"> <a href="/ru/">999.md</a> </h1>
+                    <div class="header_bar_nav ">
+                        <nav>
+                            <ul>
+                                <li class="header_bar_nav_icon header_bar_nav_icon_ad"> <a href="/add" rel="nofollow" data-autotest="add_ad">???????????? ????????????????????</a> </li>
+                            </ul>
+                        </nav>
+                    </div>
+                    <form id="js-search-form" action="/ru/search" method="get" class="header__search" data-min-length="0" data-translation-user="????????????????????????" data-translation-loading="???????????????????" data-translation-not-found="???????????? ???? ??????????????" data-translation-search="??????????" data-translation-phone-number="?????????? ????????????????" data-translation-in-ads="?? ??????????????????????">
+                        <fieldset>
+                            <input type="text" class="header__search__query" id="js-search-input" name="query" maxlength="40" autocomplete="off" value="" placeholder="?????????? ?? ??????????????????????" tabindex="1" data-translate-in="??">
+                            <button type="submit" class="header__search__button"> <span>??????????</span> </button>
+                        </fieldset>
+                    </form>
+                </div>
+            </div>
+        </header>
+        <div class="g-wrap cf">
+            <section id="container">
+                <div class="g-wrap">
+                    <div class="user-profile">
+                        <div class="user-profile__sidebar-info">
+                            <div class="user-profile__sidebar-info__main-wrapper">
+                                <div class="avatar-wrapper"> <img src="https://i.simpalsmedia.com/forum.md/avatars/200x200/00000000-0000-0000-0000-000000000000.png" /> </div>
+                                <div class="login-wrapper">
+                                    <div class="text "> <span class="verified-icon "></span>eugen-1 </div>
+                                </div>
+                                <div class="date-registration"> ???? ?????????? ?? ?????????????? 2011 </div>
+                            </div>
+                            <div class="user-profile__control-panel">
+                                <div class="user-profile__control-panel__title">???????????? ???? ?????????? ????????????????</div>
+                                <form class="user-profile__control-panel__controls" method="post" action="/reviews/user-policy" onchange="this.submit()">
+                                    <input type="radio" id="topic-enable" class="review-controls-input" name="policy" value="enabled" checked>
+                                    <label for="topic-enable" class="review-controls-switcher">??????</label>
+                                    <input type="radio" id="topic-desable" class="review-controls-input" name="policy" value="disabled">
+                                    <label for="topic-desable" class="review-controls-switcher">????????</label>
+                                </form>
+                                <div class="user-profile__control-panel__description"> ???????????? ???????????????????????? ????????????, ???????? ??????????, ?????????? ?? ?????? ???????????????? ?????????????????? ????????????. ???????? ???? ?????????????????? ???????????? ??? ?????????? ???? ???????????? ?????????????? ???? ???? ?????????? ??????????????, ???? ?? ???? ???? ?????????????? ?????????????????? ???????????? ????????????. </div>
+                            </div>
+                        </div>
+                        <div class="user-profile__items__wrapper">
+                            <div class=" user-profile__items__cropper__container no-cover " id="js-main-cropper-container" data-profile-cover-url="/profile/cover-image">
+                                <div class="user-profile__items__cropper__upload-button-wrapper">
+                                    <label id="upload-cover-button" for="upload-cover" class="user-profile__items__cropper__upload-button">???????????????? ?????????????? </label>
+                                    <input type="file" id="upload-cover" value="Choose a file" accept="image/*" class="user-profile__items__cropper__upload-input" hidden>
+                                    <div id="upload-cover-dropdown" class=" user-profile__items__cropper__upload-button user-profile__items__cropper__upload-dropdown-wrapper ">???????????????? ??????????????
+                                        <div>
+                                            <ul>
+                                                <li>
+                                                    <label for="upload-cover">?????????????????? ????????</label>
+                                                </li>
+                                                <li>
+                                                    <button type="button" class="user-profile__items__cropper__delete-cover" id="js-delete-cover-button">??????????????</button>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="user-profile__items__cropper__croppie-wrapper">
+                                    <div id="js-croppie-container" class="user-profile__items__cropper__croppie"></div>
+                                </div>
+                                <div class="user-profile__items__cropper__controls">
+                                    <div class="user-profile__items__cropper__controls-tip">?????????? ???????????????? ?????????????????? ??????????????, ???????????????????? ???? </div>
+                                    <div class="user-profile__items__cropper__buttons-wrapper">
+                                        <button type="button" class="user-profile__items__cropper__cancel-crop" id="js-cancel-crop-button">????????????</button>
+                                        <button type="button" class="user-profile__items__cropper__accept-crop" id="js-accept-crop-button">?????????????????? ??????????????</button>
+                                    </div>
+                                </div> <img src="" alt="Profile page cover" class=" user-profile__items__cropper__image  " id="js-cropped-image">
+                                <div class="user-profile__items__cropper__no-image is-show" id="js-no-image">
+                                    <svg viewBox="0 0 296 184" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+                                        <title>999 logo</title>
+                                        <defs>
+                                            <path id="path-1" d="M0,0.937 L294.064,0.937 L294.064,183 L0,183"></path>
+                                            <path id="path-3" d="M0,0.937 L294.064,0.937 L294.064,183 L0,183"></path>
+                                        </defs>
+                                        <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+                                            <g id="Vector-Smart-Object" sketch:type="MSLayerGroup" transform="translate(1.000000, 0.000000)">
+                                                <g id="Group-3">
+                                                    <mask id="mask-2" sketch:name="Clip 2" fill="white">
+                                                        <use xlink:href="#path-1"></use>
+                                                    </mask>
+                                                    <g id="Clip-2"></g>
+                                                    <path d="M182.0026,137.0253 C164.8786,158.5093 141.6436,173.8363 112.3396,183.0003 C107.4396,183.0003 104.3406,182.0603 103.1716,180.3053 L89.1026,164.8903 C85.8236,161.2963 87.0346,157.7453 92.7456,154.1943 C116.8346,139.5403 131.0806,121.1143 135.5296,98.9583 C120.4746,97.3393 108.4296,92.2173 99.4866,83.4963 C90.4976,74.8243 86.0476,63.9023 86.0476,50.8243 C86.0476,35.0483 91.5296,22.5093 102.5416,13.3863 C112.2936,5.1173 125.5536,0.9373 142.2706,0.9373 C162.1816,0.9373 178.0016,7.4983 189.5976,20.6213 C201.1936,33.7913 207.0346,51.3183 207.0346,73.2063 C207.0346,95.0483 198.6766,116.3043 182.0026,137.0253" id="Fill-1" fill="#EF4825" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                                                </g>
+                                                <g id="Group-6">
+                                                    <mask id="mask-4" sketch:name="Clip 5" fill="white">
+                                                        <use xlink:href="#path-3"></use>
+                                                    </mask>
+                                                    <g id="Clip-5"></g>
+                                                    <path d="M62.7829,118.3166 C51.5789,132.3736 36.3759,142.4016 17.2029,148.3976 C13.9969,148.3976 11.9689,147.7836 11.2039,146.6346 L1.9989,136.5486 C-0.1461,134.1976 0.6459,131.8736 4.3819,129.5506 C20.1439,119.9626 29.4649,107.9066 32.3759,93.4096 C22.5259,92.3506 14.6439,88.9996 8.7929,83.2936 C2.9119,77.6186 -0.0001,70.4726 -0.0001,61.9156 C-0.0001,51.5936 3.5869,43.3896 10.7919,37.4206 C17.1729,32.0096 25.8479,29.2746 36.7869,29.2746 C49.8139,29.2746 60.1649,33.5676 67.7519,42.1546 C75.3399,50.7706 79.1619,62.2396 79.1619,76.5606 C79.1619,90.8516 73.6929,104.7596 62.7829,118.3166" id="Fill-4" fill="#FDBA29" sketch:type="MSShapeGroup" mask="url(#mask-4)"></path>
+                                                </g>
+                                                <path d="M277.6836,118.3166 C266.4806,132.3736 251.2786,142.4016 232.1036,148.3976 C228.8986,148.3976 226.8716,147.7836 226.0756,146.6346 L216.9006,136.5486 C214.7556,134.1976 215.5476,131.8736 219.2836,129.5506 C235.0156,119.9626 244.3656,107.9066 247.2776,93.4096 C237.4276,92.3506 229.5476,88.9996 223.6946,83.2936 C217.8136,77.6186 214.9026,70.4726 214.9026,61.9156 C214.9026,51.5936 218.4886,43.3896 225.6936,37.4206 C232.0746,32.0096 240.7186,29.2746 251.6596,29.2746 C264.7146,29.2746 275.0676,33.5676 282.6546,42.1546 C290.2416,50.7706 294.0636,62.2396 294.0636,76.5606 C294.0636,90.8516 288.5936,104.7596 277.6836,118.3166" id="Fill-7" fill="#ACB44D" sketch:type="MSShapeGroup"></path>
+                                            </g>
+                                        </g>
+                                    </svg>
+                                </div>
+                            </div>
+                            <div class="user-profile__items">
+                                <a id="anchor--items" href="" class="user-profile__items__anchor--items"></a>
+                                <header class="user-profile__items__header">
+                                    <h3>????????????????????</h3> </header>
+                                <h4 class="user-profile__items__empty">?? ?????? ???????? ?????? ???????????????????????????? ????????????????????</h4>
+                                <div class="user-profile__reviews">
+                                    <div id="anchor--reviews" class="user-profile__reviews__list-header">
+                                        <div class="user-profile__reviews__list-header__title-wrapper">
+                                            <h3>????????????</h3> </div>
+                                    </div>
+                                    <h4 class="user-profile__items__empty">?? ?????? ???????? ?????? ??????????????</h3>     </div> </div> </div> <div id="js-inline-message-popup" class="mfp-hide" > <div class="user-profile__info__data is-popup"> <form id="js-ad-message" class="user-profile__info__data__message"  data-logined="false" > <h3 class="title">?????????????????? ?????? eugen-1</h3> <div class="user-profile__info__data__message__textarea"> <textarea id="js-ad-message-textarea" class=" form-element__textarea js-textarea-with-counter " rows="5" cols="20" placeholder="?????????????? ??????????" maxlength="1000"></textarea> <div class="form-control__label form-control__description__limit"> <span class="js-textarea-with-counter-counter">0</span> ???? 1 000 </div> </div> <div class="buttons-wrapper"> <button type="submit" class="button button--small"> ?????????????????? </button> <div class="js-cancel-button button button--local-link button--local-link--small"> ???????????? </div> </div> </form> <button type="button" class="mfp-close">??</button> <div class="js-message-popup-sent user-profile__info__data__popup-message-sent">?????????????????? ????????????????????</div> </div>  </div> <div id="js-error-cover-uploading" class="mfp-hide" > <div class="user-profile__info__data is-popup"> <h3 class="title">???????????? ????????????????</h3> <div class="user-profile__hint user-profile__hint__alert" >?????? ???????????????? ???????? ???????????????? ????????????. <strong>????????????????????, ???????????????????? ?????? ?????? ?????????????????? ????????.</strong> </div> <div class="buttons-wrapper"> <button type="submit" class="button button--small js-close-mfp"> ???????????? </button> </div> <button type="button" class="mfp-close">??</button> </div>  </div> <div id="js-error-cover-format" class="mfp-hide" > <div class="user-profile__info__data is-popup"> <h3 class="title">???????????????? ???????????? ??????????</h3> <div class="user-profile__hint user-profile__hint__alert" >???????? ?????? ?????????????? ???????????? ???????? ?????????????? .jpg, .jpeg, .png, .svg, ???????? .gif ?????? ????????????????.</br><strong>????????????????????, ???????????????? ???????????? ?? ?????????????????? ???????? ??????????.</strong> </div> <div class="buttons-wrapper"> <button type="button" class="button button--small js-close-mfp"> ???????????? </button> </div> <button type="button" class="mfp-close">??</button> </div>  </div> <div id="js-error-cover-old-browser" class="mfp-hide" > <div class="user-profile__info__data is-popup"> <h3 class="title">????????????</h3> <div class="user-profile__hint user-profile__hint__alert" >????????????????, ?????? ?????????????? ?????????????? ?? ???? ???????????????????????? ???????????? ????????????????????.</br><strong>???????????????????? ???????????????????? ?????????????????? ????????, ?????????????????? ?????????? ?????????????????????? ????????????????.</strong> </div> <div class="buttons-wrapper"> <button type="submit" class="button button--small js-close-mfp"> ???????????? </button> </div> <button type="button" class="mfp-close">??</button> </div>  </div> </div>  </div> </section> </div> </div>  <a class="scroll-top" href="#" title="????????????"></a>   <footer class="footer"> <div class="footer__container"> <div class="footer__columns"> <div class="footer__columns__column"> <div class="footer__columns__column__title">Info</div> <ul class="footer__columns__column__list"> <li><a href="/info/about">?? ??????????????</a></li> <li><a href="/info/payment">?????????????? ????????????</a></li> <li><a href="/blog/">????????</a></li> <li><a href="https://business.999.md/ru/">Business</a></li> <li><a href="/api">API</a></li> <li><a href="https://joblist.md/companies/702fc6e47464474f871326e23f6fa1ab">????????????????</a></li> </ul> </div> <div class="footer__columns__column"> <div class="footer__columns__column__title">Support</div> <ul class="footer__columns__column__list"> <li><a href="/info/rules">??????????????</a></li> <li><a href="/info/help">????????????</a></li> <li><a href="/info/recommendations">????????????????????????</a></li> <li><a href="/info/privacy-policy">???????????????? ????????????????????????????????????</a></li> <li>??????????????????: <a href="tel:+37322888002">(+373) 22 888002</a></li> <li>????. ??????????: <a href="mailto:info@999.md">info@999.md</a></li> </ul> </div> <div class="footer__columns__column"> <div class="footer__columns__column__title">Promo</div> <ul class="footer__columns__column__list"> <li><a href="http://numbers.md">?????????????????? ??????????????</a></li> <li><a href="/info/promo">?????????????????????? ????????????????????</a></li> <li>????. ??????????: <a href="mailto:info@numbers.md">info@numbers.md</a></li> </ul> </div> <div class="footer__columns__column"> <div class="footer__columns__column__title">Mobile</div> <ul class="footer__columns__column__list"> <li><a href="/mobile/enable">?????????????????? ????????????</a></li> <li><a href="/info/apps">999 Apps</a></li> </ul> </div> <div class="footer__columns__column"> <div class="footer__columns__column__title">Social</div>  <div class="footer__columns__column__socials"> <a class="is-fb" href="https://www.facebook.com/www999md/" target="_blank" rel="noopener noreferrer"></a> <a class="is-ok" href="https://ok.ru/www999md" target="_blank" rel="noopener noreferrer"></a> <a class="is-vk" href="https://vk.com/web999md" target="_blank" rel="noopener noreferrer"></a> </div>  <a class="footer__columns__column__payment" href="https://999.md/info/payment"> <i class="footer__pay is-master"></i> <i class="footer__pay is-visa"></i> </a>  </div> </div> <div class="footer__projects"> <div class="footer__projects__simpals"> <a href="http://simpals.md" class="footer__projects__simpals__logo">Simpals</a> <span class="footer__projects__simpals__copyright">?? 1999???2020</span> </div> <a href="https://stiri.md" class="footer__projects__project is-stiri">stiri.md</a> <a href="https://achizitii.md" class="footer__projects__project is-achizitii">achizitii.md</a> <a href="https://joblist.md" class="footer__projects__project is-joblist">joblist.md</a> <a href="https://mama.md" class="footer__projects__project is-mama">mama.md</a> <a href="https://price.md" class="footer__projects__project is-price">price.md</a> <a href="https://sporter.md" class="footer__projects__project is-sporter">sporter</a> </div> </div> </footer>    <script> CONFIG = { TOKEN: "f9b6929e4c20e045ef3e8660194c9cd83c55f077d5976d8b19e748df24a90546e1240d89f495f867088a062526388544c5d2f7c582b4272143f3ec462d8acb5a1c023b4025911be47427af1127313ef237c6fbde5bfb9bad25e2280d34363e26f6b57b42e8348dbb09b8532b1719a971298c56d7e694b7115f925d77097d4f24ceafd86f2fb6dee36c8ba9df054c026c04fee8b97ae2f5fbc5ffac4410ae2d882240e1e3888949fe22a7628ed0dc8b22d995d80f83ca0b874059bc53f7b386d5144c34dfe2dedb4bee2f4af20d2054ab", LOCALE_CODE: "ru", CONFIRM_MODAL_URL: "/confirm-modal", LOCALE_CODE: "ru", TRANSNISTRIA_POPUP: false, TRANSNISTRIA_POPUP_URL: "/other/transnitria-welcome", MAP_API_KEY: "0db20273-f13c-44b3-811d-00ef208ff5d8", }; SERVICES = { LAST_ADS: { URL: "https://999.md/services/lastads/", } }; </script>   <script src="/public/classic/dist/vendor.bundle.59b6c13012ec63b56501.js"></script> <script src="/public/classic/dist/main.bundle.59b6c13012ec63b56501.js"></script>  <script src="/static/classic/bower_components/jquery/dist/jquery.min.js?v=4a356126b9573eb7bd1e9a7494737410"></script> <!--<script src="/static/classic/bower_components/leaflet/dist/leaflet.js?v=591bc0cd60365b546d23fd1b85e584fa"></script>--> <script src="/static/classic/bower_components/taggle/example/js/taggle.min.js?v=12b4a96ed68604decb793af2e28f2e8e"></script>    <script src="/static/classic/assets/dist/js/common.js?v=066c616d0641333b39bc32e7b8a4cd87"></script>  <script src="/static/classic/assets/dist/js/pages/profile/combined/main.js?v=8692ecce01871be5382c1cd082173096"></script>      <script> var pp_gemius_identifier = 'nGGaAQiYN4wW0IJisCI905YTPwzdfHr4vms6whuKTN7.f7'; function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};}; gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event'); (function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async'); gt.setAttribute('defer','defer'); gt.src=l+'://garo.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script'); </script>   <script> (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/ru_RU/all.js#xfbml=1&appId=159220827469771"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); </script>    <script type='text/javascript'> 
+        admixerML.fn.push(function() { 
+        admixerML.defineSlot({z: '78309aec-d9d4-4681-8f81-a97cded60670', ph: 'admixer_78309aecd9d446818f81a97cded60670_zone_44645_sect_13460_site_9509', i: 'inv-nets', s:'eddf3c90-5498-4317-96ee-3c16cbc87701'}); 
+        admixerML.singleRequest(); 
+        });</script>   <script type='text/javascript'>
+                    (window.globalAmlAds = window.globalAmlAds || []).push(function() {
+                    globalAml.defineSlot({z: '50250e91-ffce-4877-a8e0-df2c033942c2', ph: 'admixer_50250e91ffce4877a8e0df2c033942c2_zone_46185_sect_13460_site_9509', i: 'inv-nets', s:'eddf3c90-5498-4317-96ee-3c16cbc87701', sender: 'admixer'});
+                    globalAml.singleRequest('admixer');});
+                    </script>
+          <script src="//inv-dmp.admixer.net/dmpcnt.js?cntoid=9fa8db90-f21b-431f-a501-6ca45d52860b" async="async"></script>  </body> </html>
