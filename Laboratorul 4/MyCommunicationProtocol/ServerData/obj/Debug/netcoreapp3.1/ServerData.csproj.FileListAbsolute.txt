@@ -1,0 +1,25 @@
+D:\University\Anul III\Semestrul II\Programarea in retea\PR-master\lab4\SocketApp\ServerData\bin\Debug\netcoreapp3.1\ServerData.deps.json
+D:\University\Anul III\Semestrul II\Programarea in retea\PR-master\lab4\SocketApp\ServerData\bin\Debug\netcoreapp3.1\ServerData.dll
+D:\University\Anul III\Semestrul II\Programarea in retea\PR-master\lab4\SocketApp\ServerData\bin\Debug\netcoreapp3.1\ServerData.pdb
+D:\University\Anul III\Semestrul II\Programarea in retea\PR-master\lab4\SocketApp\ServerData\obj\Debug\netcoreapp3.1\ServerData.csprojAssemblyReference.cache
+D:\University\Anul III\Semestrul II\Programarea in retea\PR-master\lab4\SocketApp\ServerData\obj\Debug\netcoreapp3.1\ServerData.csproj.CoreCompileInputs.cache
+D:\University\Anul III\Semestrul II\Programarea in retea\PR-master\lab4\SocketApp\ServerData\obj\Debug\netcoreapp3.1\ServerData.AssemblyInfoInputs.cache
+D:\University\Anul III\Semestrul II\Programarea in retea\PR-master\lab4\SocketApp\ServerData\obj\Debug\netcoreapp3.1\ServerData.AssemblyInfo.cs
+D:\University\Anul III\Semestrul II\Programarea in retea\PR-master\lab4\SocketApp\ServerData\obj\Debug\netcoreapp3.1\ServerData.dll
+D:\University\Anul III\Semestrul II\Programarea in retea\PR-master\lab4\SocketApp\ServerData\obj\Debug\netcoreapp3.1\ServerData.pdb
+D:\University\Anul III\Semestrul II\Programarea in retea\Laboratorul 4\SocketApp\ServerData\bin\Debug\netcoreapp3.1\ServerData.deps.json
+D:\University\Anul III\Semestrul II\Programarea in retea\Laboratorul 4\SocketApp\ServerData\bin\Debug\netcoreapp3.1\ServerData.dll
+D:\University\Anul III\Semestrul II\Programarea in retea\Laboratorul 4\SocketApp\ServerData\bin\Debug\netcoreapp3.1\ServerData.pdb
+D:\University\Anul III\Semestrul II\Programarea in retea\Laboratorul 4\SocketApp\ServerData\obj\Debug\netcoreapp3.1\ServerData.csproj.CoreCompileInputs.cache
+D:\University\Anul III\Semestrul II\Programarea in retea\Laboratorul 4\SocketApp\ServerData\obj\Debug\netcoreapp3.1\ServerData.AssemblyInfoInputs.cache
+D:\University\Anul III\Semestrul II\Programarea in retea\Laboratorul 4\SocketApp\ServerData\obj\Debug\netcoreapp3.1\ServerData.AssemblyInfo.cs
+D:\University\Anul III\Semestrul II\Programarea in retea\Laboratorul 4\SocketApp\ServerData\obj\Debug\netcoreapp3.1\ServerData.dll
+D:\University\Anul III\Semestrul II\Programarea in retea\Laboratorul 4\SocketApp\ServerData\obj\Debug\netcoreapp3.1\ServerData.pdb
+D:\University\Anul III\Semestrul II\Programarea in retea\Laboratorul 4\MyCommunicationProtocol\ServerData\bin\Debug\netcoreapp3.1\ServerData.deps.json
+D:\University\Anul III\Semestrul II\Programarea in retea\Laboratorul 4\MyCommunicationProtocol\ServerData\bin\Debug\netcoreapp3.1\ServerData.dll
+D:\University\Anul III\Semestrul II\Programarea in retea\Laboratorul 4\MyCommunicationProtocol\ServerData\bin\Debug\netcoreapp3.1\ServerData.pdb
+D:\University\Anul III\Semestrul II\Programarea in retea\Laboratorul 4\MyCommunicationProtocol\ServerData\obj\Debug\netcoreapp3.1\ServerData.csproj.CoreCompileInputs.cache
+D:\University\Anul III\Semestrul II\Programarea in retea\Laboratorul 4\MyCommunicationProtocol\ServerData\obj\Debug\netcoreapp3.1\ServerData.AssemblyInfoInputs.cache
+D:\University\Anul III\Semestrul II\Programarea in retea\Laboratorul 4\MyCommunicationProtocol\ServerData\obj\Debug\netcoreapp3.1\ServerData.AssemblyInfo.cs
+D:\University\Anul III\Semestrul II\Programarea in retea\Laboratorul 4\MyCommunicationProtocol\ServerData\obj\Debug\netcoreapp3.1\ServerData.dll
+D:\University\Anul III\Semestrul II\Programarea in retea\Laboratorul 4\MyCommunicationProtocol\ServerData\obj\Debug\netcoreapp3.1\ServerData.pdb
